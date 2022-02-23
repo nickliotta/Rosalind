@@ -14,6 +14,5 @@ def main():
 
     print(rna)
 
-
 if __name__ == "__main__":
     main()

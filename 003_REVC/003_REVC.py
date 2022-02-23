@@ -13,6 +13,5 @@ def main():
     complement = dna.replace("A", "t").replace("T", "a").replace("C", "g").replace("G", "c")[::-1].upper()
     print(complement)
 
-
 if __name__ == "__main__":
     main()
