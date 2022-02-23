@@ -7,7 +7,7 @@ Return: The transcribed RNA string of t.
 """
 
 def main():
-    with open("problems/rosalind_rna.txt", "r") as file:
+    with open("/Users/nick/Desktop/internships/rosalind/data/002_RNA.txt", "r") as file:
         dna = file.read()
     
     rna = dna.replace("T", "U")
