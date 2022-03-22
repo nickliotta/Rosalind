@@ -1,5 +1,5 @@
 """
-problem: Modeling Random Genomes
+problem: Introduction to Random Strings
 url: https://rosalind.info/problems/prob/
 
 Given: A DNA string s of length at most 100 bp and an array A containing at most 20 numbers between 0 and 1.

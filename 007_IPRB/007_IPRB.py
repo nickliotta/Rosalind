@@ -1,5 +1,5 @@
 """
-problem: Introduction to Mendelian Inheritance
+problem: Mendel's First Law
 url: https://rosalind.info/problems/iprb/
 
 Given: Three positive integers k, m, and n, representing a population containing k+m+n organisms: k individuals are homozygous dominant for a factor, m are heterozygous, and n are homozygous recessive.

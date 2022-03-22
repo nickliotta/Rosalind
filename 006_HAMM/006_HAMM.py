@@ -1,5 +1,5 @@
 """
-problem: Evolution as a Sequence of Mistakes
+problem: Counting Point Mutations
 url: https://rosalind.info/problems/hamm/
 
 Given: Two DNA strings s and t of equal length (not exceeding 1 kbp).

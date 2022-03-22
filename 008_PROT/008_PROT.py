@@ -1,5 +1,5 @@
 """
-problem: The Genetic Code
+problem: Translating RNA into Protein
 url: https://rosalind.info/problems/prot/
 
 Given: An RNA string s corresponding to a strand of mRNA (of length at most 10 kbp).

@@ -1,5 +1,5 @@
 """
-problem: Combing Through the Haystack
+problem: Mortal Fibonacci Rabbits
 url: https://rosalind.info/problems/subs/
 
 Given: Two DNA strings s and t (each of length at most 1 kbp).

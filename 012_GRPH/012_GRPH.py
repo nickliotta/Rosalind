@@ -1,5 +1,5 @@
 """
-problem: A Brief Introduction to Graph Theory
+problem: Overlap Graphs
 url: https://rosalind.info/problems/grph/
 
 Given: A collection of DNA strings in FASTA format having total length at most 10 kbp.

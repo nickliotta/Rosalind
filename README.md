@@ -10,4 +10,12 @@
 * REVC: Complementing a Strand of DNA [[info](http://rosalind.info/problems/revc/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/003_REVC/003_REVC.py)]
 * FIB: Rabbits and Recurrence Relations [[info](http://rosalind.info/problems/fib/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/004_FIB/004_FIB.py)]
 * GC: Computing GC Content [[info](http://rosalind.info/problems/gc/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/005_GC/005_GC.py)]
+* HAMM: Counting Point Mutations [[info](http://rosalind.info/problems/hamm/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/006_HAMM/006_HAMM.py)]
+* IPRB: Mendel's First Law [[info](http://rosalind.info/problems/iprb/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/007_IPRB/007_IPRB.py)]
+* PROT: Translating RNA into Protein [[info](http://rosalind.info/problems/prot/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/008_PROT/008_PROT.py)]
+* SUBS: Finding a Motif in DNA [[info](http://rosalind.info/problems/subs/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/009_SUBS/009_SUBS.py)]
+* CONS: Consensus and Profile [[info](http://rosalind.info/problems/cons/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/010_CONS/010_CONS.py)]
 * FIBD: Mortal Fibonacci Rabbits [[info](http://rosalind.info/problems/fibd/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/011_FIBD/011_FIBD.py)]
+* GRPH: Overlap Graphs [[info](http://rosalind.info/problems/grph/)] [[code](https://github.com/nickliotta/Rosalind/tree/main/012_GRPH/012_GRPH.py)]
+* PROB: Introduction to Random Strings [[info](http://rosalind.info/problems/prob/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/013_PROB/013_PROB.py)]
+

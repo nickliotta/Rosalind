@@ -1,5 +1,5 @@
 """
-problem: Finding a Most Likely Common Ancestor
+problem: Consensus and Profile
 url: https://rosalind.info/problems/cons/
 
 Given: A collection of at most 10 DNA strings of equal length (at most 1 kbp) in FASTA format.
