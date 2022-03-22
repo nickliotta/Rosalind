@@ -8,7 +8,7 @@ Return: The reverse complement sc of s.
 
 def main():
     with open("/Users/nick/Desktop/internships/rosalind/data/003_REVC.txt", "r") as file:
-        dna = file.read()
+        dna = file.read().strip()
     
     complement = dna.replace("A", "t").replace("T", "a").replace("C", "g").replace("G", "c")[::-1].upper()
     print(complement)

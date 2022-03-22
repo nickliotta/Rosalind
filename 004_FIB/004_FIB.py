@@ -8,7 +8,7 @@ Return: The total number of rabbit pairs that will be present after n months, if
 
 def main():
     with open("/Users/nick/Desktop/internships/rosalind/data/004_FIB.txt", "r") as file:
-        file = file.read()
+        file = file.read().strip()
     
     def fib(n, k):
         if n <= 2:

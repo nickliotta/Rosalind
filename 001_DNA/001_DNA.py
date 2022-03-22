@@ -8,7 +8,7 @@ Return: Four integers (separated by spaces) counting the respective number of ti
 
 def main():
     with open("/Users/nick/Desktop/internships/rosalind/data/001_DNA.txt", "r") as file:
-        dna = file.read()
+        dna = file.read().strip()
 
         print(
             dna.count("A"),
