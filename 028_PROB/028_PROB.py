@@ -9,7 +9,7 @@ Return: An array B having the same length as A in which B[k] represents the comm
 import math
 
 def main():
-    with open("/Users/nick/Desktop/internships/rosalind/data/013_PROB.txt", "r") as file:
+    with open("/Users/nick/Desktop/internships/rosalind/data/028_PROB.txt", "r") as file:
         s = file.readline().strip()
         a_ = map(float, file.readline().strip().split(" "))
 

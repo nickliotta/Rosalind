@@ -18,4 +18,7 @@
 * FIBD: Mortal Fibonacci Rabbits [[info](http://rosalind.info/problems/fibd/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/011_FIBD/011_FIBD.py)]
 * GRPH: Overlap Graphs [[info](http://rosalind.info/problems/grph/)] [[code](https://github.com/nickliotta/Rosalind/tree/main/012_GRPH/012_GRPH.py)]
 * PROB: Introduction to Random Strings [[info](http://rosalind.info/problems/prob/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/013_PROB/013_PROB.py)]
-
+* IEV: Calculating Expected Offspring [[info](http://rosalind.info/problems/iev/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/014_IEV/014_IEV.py)]
+* LIA: Independent Alleles [[info](http://rosalind.info/problems/lia/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/015_LIA/015_LIA.py)]
+* MPRT: Finding a Protein Motif [[info](http://rosalind.info/problems/mprt/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/016_MPRT/016_MPRT.py)]
+* MRNA: Inferring mRNA from Protein [[info](http://rosalind.info/problems/mrna/)] [[code](https://github.com/nickliotta/Rosalind/blob/main/017_MRNA/017_MRNA.py)]
