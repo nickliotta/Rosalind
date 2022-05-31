@@ -34,10 +34,7 @@ def main():
                     return motif
 
     answer = get_motif()
-    if answer != None:
-        print(answer)
-    else:
-        print("None")
+    print(answer)
 
 if __name__ == "__main__":
     main()
